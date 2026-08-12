@@ -41,8 +41,10 @@
     <div class="form-card">
       <h3>Product Inquiry</h3>
       <p class="sub">Fill in the form below and we'll get back to you with a tailored quote.</p>
-      <div class="form-ok" id="form-ok">✅ Thanks! Your email app should open with the inquiry ready to send.</div>
+      <div class="form-ok" id="form-ok">✅ Thanks! Your inquiry has been sent. We'll reply within 24 hours.</div>
       <form id="inquiry-form">
+        <input type="hidden" name="access_key" value="YOUR_WEB3FORMS_KEY">
+        <input type="checkbox" name="botcheck" style="display:none" tabindex="-1" autocomplete="off">
         <div class="row2">
           <div class="field"><label>Name *</label><input name="name" type="text" placeholder="Your name"></div>
           <div class="field"><label>Company</label><input name="company" type="text" placeholder="Company name"></div>
@@ -72,7 +74,7 @@
         </div>
         <div class="field"><label>Message *</label><textarea name="message" placeholder="Tell us about size, color, packaging, target price, etc."></textarea></div>
         <button class="btn" type="submit" style="width:100%;justify-content:center">Send Inquiry</button>
-        <div class="note">💡 This free preview site has no server backend. Submitting opens your email app pre-filled to <b>alina@kaixinkeji.cn</b>. On the final domain we can wire a direct form.</div>
+        <div class="note">💡 Your inquiry is sent straight to our team at <b>alina@kaixinkeji.cn</b> — no server needed (via Web3Forms form backend).</div>
       </form>
     </div>
 
