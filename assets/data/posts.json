@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "slug": "what-is-rice-husk-tableware",
+      "title": "What Is Rice Husk Tableware? The Complete 2026 Buyer's Guide",
+      "date": "2026-08-11",
+      "category": "Buyer's Guide",
+      "author": "Kaixin Eco Team",
+      "excerpt": "Rice husk tableware turns a wasted farm byproduct into safe, durable, biodegradable dinnerware. Here is everything importers and buyers need to know before sourcing.",
+      "cover": "assets/img/products/09-bowl/photobank_(5).jpg",
+      "tags": ["rice husk", "eco tableware", "biodegradable", "buyer guide"]
+    },
+    {
+      "slug": "rice-husk-vs-bamboo-vs-plastic",
+      "title": "Rice Husk vs Bamboo vs Plastic: Which Eco Tableware Actually Wins?",
+      "date": "2026-08-11",
+      "category": "Comparison",
+      "author": "Kaixin Eco Team",
+      "excerpt": "Three materials, three very different stories for the planet and your customers. We compare rice husk, bamboo and plastic tableware on durability, safety and sustainability.",
+      "cover": "assets/img/products/01-chopping-board/photobank_(8).jpg",
+      "tags": ["rice husk", "bamboo", "plastic", "comparison", "sustainability"]
+    },
+    {
+      "slug": "why-bpa-free-tableware-matters",
+      "title": "Why BPA-Free Tableware Matters for Your Customers' Health",
+      "date": "2026-08-11",
+      "category": "Food Safety",
+      "author": "Kaixin Eco Team",
+      "excerpt": "BPA is still hiding in everyday plastic tableware. Learn why BPA-free rice husk dinnerware is the safer choice for families, kids and food businesses.",
+      "cover": "assets/img/certs/bpa-free.jpg",
+      "tags": ["BPA free", "food safety", "non-toxic", "kids tableware"]
+    }
+  ]
+}
