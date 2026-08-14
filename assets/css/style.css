@@ -176,7 +176,7 @@ footer.site{background:var(--green-900);color:#cfe3d2;padding:56px 0 26px}
   .menu-toggle{display:block}
   .hero-inner{padding:64px 0 72px}
   .hero h1{font-size:33px}
-  .hero-stats{gap:26px}
+  .hero-stats{display:grid;grid-template-columns:1fr 1fr;gap:22px 14px;width:100%;text-align:center}
   .sec-head h2{font-size:27px}
   .grid-products{grid-template-columns:1fr}
   .cert-grid{grid-template-columns:1fr 1fr}
