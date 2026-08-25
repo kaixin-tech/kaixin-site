@@ -1,22 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url><loc>https://www.kaixin-tableware.com/index.html</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/about.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/contact.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/blog.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/bowl.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/chopping-board.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/coffee-cup.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/compartment-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/kids-set.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/lunch-box.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/rolling-pin.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/round-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/serving-tray.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/products/square-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/blog/rice-husk-vs-bamboo-vs-plastic.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/blog/what-is-rice-husk-tableware.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/blog/why-bpa-free-tableware-matters.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
   <url><loc>https://www.kaixin-tableware.com/blog/are-rice-husk-products-biodegradable.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+
+  <url><loc>https://www.kaixin-tableware.com/blog/5-reasons-food-businesses-are-switching.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 </urlset>
