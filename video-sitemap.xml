@@ -1,93 +1,205 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+
   <url>
+
     <loc>https://www.kaixin-tableware.com/</loc>
+
     <video:video>
+
       <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/video-thumbs/factory.jpg</video:thumbnail_loc>
+
       <video:title>Kaixin Factory Tour - Rice Husk Tableware Production</video:title>
+
       <video:description>A look inside our 5,000 m2 facility where rice husk (plant fiber) tableware is molded, finished and packed for global OEM and ODM clients.</video:description>
+
       <video:content_loc>https://www.kaixin-tableware.com/assets/video/factory.mp4</video:content_loc>
+
       <video:duration>51</video:duration>
+
       <video:publication_date>2026-08-18T00:00:00+08:00</video:publication_date>
+
       <video:tag>rice husk</video:tag>
+
       <video:tag>plant fiber tableware</video:tag>
+
       <video:tag>factory tour</video:tag>
+
       <video:tag>OEM manufacturer</video:tag>
+
       <video:tag>eco tableware</video:tag>
+
       <video:tag>B2B</video:tag>
+
       <video:category>Business &amp; Industrial</video:category>
+
       <video:family_friendly>yes</video:family_friendly>
+
     </video:video>
+
     <video:video>
+
       <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/ricefield-poster.jpg</video:thumbnail_loc>
+
       <video:title>From Rice Field to Tableware - Rice Husk Material</video:title>
+
       <video:description>Where it begins: rice husk, a by-product of rice milling, is turned into durable reusable tableware instead of being burned as waste.</video:description>
+
       <video:content_loc>https://www.kaixin-tableware.com/assets/video/ricefield.mp4</video:content_loc>
+
       <video:duration>30</video:duration>
+
       <video:publication_date>2026-08-18T00:00:00+08:00</video:publication_date>
+
       <video:tag>rice husk</video:tag>
+
       <video:tag>sustainable material</video:tag>
+
       <video:tag>plant fiber</video:tag>
+
       <video:tag>eco friendly</video:tag>
+
       <video:tag>reusable</video:tag>
+
       <video:category>Business &amp; Industrial</video:category>
+
       <video:family_friendly>yes</video:family_friendly>
+
     </video:video>
+
   </url>
+
   <url>
+
     <loc>https://www.kaixin-tableware.com/about.html</loc>
+
     <video:video>
+
       <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/video-thumbs/factory.jpg</video:thumbnail_loc>
+
       <video:title>Kaixin Factory Tour - Rice Husk Tableware Production</video:title>
+
       <video:description>A look inside our 5,000 m2 facility where rice husk (plant fiber) tableware is molded, finished and packed for global OEM and ODM clients.</video:description>
+
       <video:content_loc>https://www.kaixin-tableware.com/assets/video/factory.mp4</video:content_loc>
+
       <video:duration>51</video:duration>
+
       <video:publication_date>2026-08-18T00:00:00+08:00</video:publication_date>
+
       <video:tag>rice husk</video:tag>
+
       <video:tag>plant fiber tableware</video:tag>
+
       <video:tag>factory tour</video:tag>
+
       <video:tag>OEM manufacturer</video:tag>
+
       <video:tag>eco tableware</video:tag>
+
       <video:tag>B2B</video:tag>
+
       <video:category>Business &amp; Industrial</video:category>
+
       <video:family_friendly>yes</video:family_friendly>
+
     </video:video>
+
   </url>
+
   <url>
+
     <loc>https://www.kaixin-tableware.com/products/chopping-board.html</loc>
+
     <video:video>
+
       <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/video-thumbs/chopping-board.jpg</video:thumbnail_loc>
+
       <video:title>Rice Husk Chopping Board - Product Overview</video:title>
+
       <video:description>A closer look at our reusable rice husk chopping board: durable, food-safe and easy to clean for home and food-service use.</video:description>
+
       <video:content_loc>https://www.kaixin-tableware.com/assets/video/chopping-board.mp4</video:content_loc>
+
       <video:duration>23</video:duration>
+
       <video:publication_date>2026-08-18T00:00:00+08:00</video:publication_date>
+
       <video:tag>rice husk chopping board</video:tag>
+
       <video:tag>cutting board</video:tag>
+
       <video:tag>reusable</video:tag>
+
       <video:tag>food safe</video:tag>
+
       <video:tag>kitchen</video:tag>
+
       <video:category>Business &amp; Industrial</video:category>
+
       <video:family_friendly>yes</video:family_friendly>
+
     </video:video>
+
   </url>
+
   <url>
-    <loc>https://www.kaixin-tableware.com/products/coffee-cup.html</loc>
+    <loc>https://www.kaixin-tableware.com/products/colored-chopping-board.html</loc>
     <video:video>
-      <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/video-thumbs/cup.jpg</video:thumbnail_loc>
-      <video:title>Rice Husk Coffee Cup - Product Overview</video:title>
-      <video:description>Our reusable rice husk coffee cup for cafes and takeaway: lightweight, food-safe and built for repeat use.</video:description>
-      <video:content_loc>https://www.kaixin-tableware.com/assets/video/cup.mp4</video:content_loc>
-      <video:duration>30</video:duration>
-      <video:publication_date>2026-08-18T00:00:00+08:00</video:publication_date>
-      <video:tag>rice husk coffee cup</video:tag>
-      <video:tag>reusable cup</video:tag>
-      <video:tag>takeaway</video:tag>
-      <video:tag>cafe</video:tag>
+      <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/video-thumbs/colored-chopping-board.jpg</video:thumbnail_loc>
+      <video:title>Colored Rice Husk Chopping Board - Product Overview</video:title>
+      <video:description>Our colored rice husk chopping board series with custom Pantone-matched colors, juice groove, non-slip silicone ring and high-density surface for OEM and ODM clients.</video:description>
+      <video:content_loc>https://www.kaixin-tableware.com/assets/video/colored-chopping-board.mp4</video:content_loc>
+      <video:duration>23</video:duration>
+      <video:publication_date>2026-08-27T00:00:00+08:00</video:publication_date>
+      <video:tag>colored chopping board</video:tag>
+      <video:tag>Pantone custom</video:tag>
+      <video:tag>rice husk</video:tag>
+      <video:tag>OEM</video:tag>
       <video:tag>eco friendly</video:tag>
       <video:category>Business &amp; Industrial</video:category>
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
   </url>
+
+  <url>
+
+    <loc>https://www.kaixin-tableware.com/products/coffee-cup.html</loc>
+
+    <video:video>
+
+      <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/video-thumbs/cup.jpg</video:thumbnail_loc>
+
+      <video:title>Rice Husk Coffee Cup - Product Overview</video:title>
+
+      <video:description>Our reusable rice husk coffee cup for cafes and takeaway: lightweight, food-safe and built for repeat use.</video:description>
+
+      <video:content_loc>https://www.kaixin-tableware.com/assets/video/cup.mp4</video:content_loc>
+
+      <video:duration>30</video:duration>
+
+      <video:publication_date>2026-08-18T00:00:00+08:00</video:publication_date>
+
+      <video:tag>rice husk coffee cup</video:tag>
+
+      <video:tag>reusable cup</video:tag>
+
+      <video:tag>takeaway</video:tag>
+
+      <video:tag>cafe</video:tag>
+
+      <video:tag>eco friendly</video:tag>
+
+      <video:category>Business &amp; Industrial</video:category>
+
+      <video:family_friendly>yes</video:family_friendly>
+
+    </video:video>
+
+  </url>
+
 </urlset>
+
