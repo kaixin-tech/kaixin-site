@@ -1,6 +1,23 @@
 {
   "posts": [
     {
+      "slug": "container-loading-moq-guide",
+      "title": "Container Loading & MOQ: The Eco Tableware Importer's Guide to Planning a Full Container That Sells",
+      "date": "2026-09-21",
+      "category": "Sourcing Guide",
+      "author": "Kaixin Eco Team",
+      "excerpt": "MOQ structure and container loading decide whether your eco tableware inventory turns fast or ties up cash. Cube-vs-weight loading, mixed-container planning, landed cost per SKU and seasonal shipping calendars for US, EU and AU/NZ importers.",
+      "cover": "assets/img/products/03-tray/product-1.jpg",
+      "tags": [
+        "eco tableware MOQ",
+        "container loading quantity tableware",
+        "40HQ container dinnerware",
+        "mixed container order rice husk tableware",
+        "FCL LCL tableware import",
+        "landed cost dinnerware import"
+      ]
+    },
+    {
       "slug": "plastic-free-catering-prep-to-plate",
       "title": "Plastic-Free Catering: Building a Kitchen That Runs From Prep Board to Compartment Tray",
       "date": "2026-09-17",
