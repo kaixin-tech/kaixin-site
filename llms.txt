@@ -67,4 +67,5 @@ cover item pricing lists, logistics rates, or third-party product reviews.
 
 - [Sitemap](https://www.kaixin-tableware.com/sitemap.xml): Complete list of every indexed URL on this site.
 
-Last reviewed: 2026-10-10
+- [Rice Husk Kids Tableware: A Buyer's Guide](https://www.kaixin-tableware.com/blog/rice-husk-kids-tableware-guide.html): sourcing guide for daycares, family restaurants and retail brands — six-piece set specs, safety questions, customization.
+Last reviewed: 2026-10-13
