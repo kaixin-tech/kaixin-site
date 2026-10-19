@@ -201,5 +201,66 @@
 
   </url>
 
+
+  <url>
+
+    <loc>https://www.kaixin-tableware.com/oem-odm-service.html</loc>
+
+    <video:video>
+
+      <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/products/02-cup/product-1.jpg</video:thumbnail_loc>
+
+      <video:title>Rice Husk Cup Logo Screen Printing</video:title>
+
+      <video:description>Screen printing a customer logo onto a rice husk cup on the production line.</video:description>
+
+      <video:content_loc>https://www.kaixin-tableware.com/assets/video/logo-screen-printing.mp4</video:content_loc>
+
+      <video:duration>5</video:duration>
+
+      <video:publication_date>2026-10-19T00:00:00+08:00</video:publication_date>
+
+    </video:video>
+
+    <video:video>
+
+      <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/products/02-cup/product-1.jpg</video:thumbnail_loc>
+
+      <video:title>Molded Logo in the Mold - Rice Husk Cup</video:title>
+
+      <video:description>A customer logo molded directly into the rice husk cup body, so it becomes part of the surface instead of a printed layer.</video:description>
+
+      <video:content_loc>https://www.kaixin-tableware.com/assets/video/logo-mold-reveal.mp4</video:content_loc>
+
+      <video:duration>5</video:duration>
+
+      <video:publication_date>2026-10-19T00:00:00+08:00</video:publication_date>
+
+    </video:video>
+
+  </url>
+
+  <url>
+
+    <loc>https://www.kaixin-tableware.com/factory.html</loc>
+
+    <video:video>
+
+      <video:thumbnail_loc>https://www.kaixin-tableware.com/assets/img/rice-harvest-to-table/01-rice-harvest-field.jpg</video:thumbnail_loc>
+
+      <video:title>Rice Husk Material in Hand</video:title>
+
+      <video:description>Close-up of cleaned rice husk, the raw material molded into Kaixin plant fiber tableware.</video:description>
+
+      <video:content_loc>https://www.kaixin-tableware.com/assets/video/rice-husk-in-hand.mp4</video:content_loc>
+
+      <video:duration>3</video:duration>
+
+      <video:publication_date>2026-10-19T00:00:00+08:00</video:publication_date>
+
+    </video:video>
+
+  </url>
+
 </urlset>
 
