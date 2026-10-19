@@ -142,7 +142,7 @@ fetch('assets/data/posts.json')
       a.href = 'blog/' + p.slug + '.html';
       a.innerHTML =
         '<div class="thumb"><span class="badge">'+ (p.category||'Article') +'</span>'+
-        '<img src="'+ p.cover +'" alt="'+ p.title.replace(/"/g,'') +'"></div>'+
+        '<img src="'+ p.cover +'" alt="'+ p.title.replace(/"/g,'') +'" loading="lazy" decoding="async"></div>'+
         '<div class="body"><div class="en" style="color:var(--green-600);font-size:12px;letter-spacing:.5px;text-transform:uppercase">'+ p.date +'</div>'+
         '<h3>'+ p.title +'</h3>'+
         '<p>'+ p.excerpt +'</p>'+
