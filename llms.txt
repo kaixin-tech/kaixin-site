@@ -21,6 +21,13 @@ cover item pricing lists, logistics rates, or third-party product reviews.
 - [Contact and inquiry form](https://www.kaixin-tableware.com/contact.html): How to reach the sales team for quotations, samples and OEM/ODM requests.
 - [Home](https://www.kaixin-tableware.com/index.html): Company overview and product range at a glance.
 
+## Solutions and capability
+
+- [Solutions overview](https://www.kaixin-tableware.com/solutions.html): Entry point for OEM/ODM manufacturing, quality documentation and factory capacity.
+- [OEM and ODM service](https://www.kaixin-tableware.com/oem-odm-service.html): Custom colours, logos and packaging for rice husk tableware; MOQ per item, sample timing and the quote request checklist.
+- [Quality and testing](https://www.kaixin-tableware.com/quality-testing.html): Which food-contact documents to request, how to read an SGS test report, and the in-process checks used on every production run.
+- [Factory and capacity](https://www.kaixin-tableware.com/factory.html): 5,000 m2 plant in Shenyang, 20+ moulding presses, process from husk to carton, lead-time logic and inspection access.
+
 ## Product range
 
 - [All products](https://www.kaixin-tableware.com/products.html): Index of the full rice husk dinnerware line.
