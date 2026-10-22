@@ -55,6 +55,7 @@ cover item pricing lists, logistics rates, or third-party product reviews.
 - [Rice husk vs bamboo vs ceramic cost](https://www.kaixin-tableware.com/blog/rice-husk-vs-bamboo-vs-ceramic-cost.html): Unit cost and total-cost comparison across the three material options.
 - [Christmas tableware stocking guide](https://www.kaixin-tableware.com/blog/christmas-tableware-stocking-guide.html): Q4 order timing, ocean transit math and Chinese New Year capacity planning for holiday tableware programs.
 - [Rice Husk Kids Tableware: A Buyer's Guide](https://www.kaixin-tableware.com/blog/rice-husk-kids-tableware-guide.html): sourcing guide for daycares, family restaurants and retail brands — six-piece set specs, safety questions, customization.
+- [Private-label rice husk tableware: launch guide](https://www.kaixin-tableware.com/blog/private-label-rice-husk-tableware.html): How to launch a branded eco tableware line — SKU selection, molded vs printed logos, Pantone matching, MOQs and a 10-week timeline.
 - [Reusable school cafeteria trays](https://www.kaixin-tableware.com/blog/reusable-school-cafeteria-trays.html): Spec, material and lifecycle guide for K-12 and campus dining buyers, including US and Canadian procurement timing.
 
 ## Material and sustainability
@@ -77,4 +78,4 @@ cover item pricing lists, logistics rates, or third-party product reviews.
 ## Optional
 
 - [Sitemap](https://www.kaixin-tableware.com/sitemap.xml): Complete list of every indexed URL on this site.
-Last reviewed: 2026-10-19
+Last reviewed: 2026-10-22
