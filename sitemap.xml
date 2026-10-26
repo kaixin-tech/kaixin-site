@@ -4,38 +4,80 @@
 
   <url><loc>https://www.kaixin-tableware.com/index.html</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
 
-  <url><loc>https://www.kaixin-tableware.com/products.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products.html</loc><changefreq>weekly</changefreq><priority>0.8</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/about.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/about.html</loc><changefreq>weekly</changefreq><priority>0.8</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/contact.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/contact.html</loc><changefreq>weekly</changefreq><priority>0.8</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
   <url><loc>https://www.kaixin-tableware.com/blog.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/bowl.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/bowl.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/chopping-board.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/chopping-board.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
   <url><loc>https://www.kaixin-tableware.com/products/colored-chopping-board.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/rice-bowl.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/rice-bowl.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
 
-  <url><loc>https://www.kaixin-tableware.com/products/coffee-cup.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/coffee-cup.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/compartment-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/compartment-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/kids-set.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/kids-set.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/lunch-box.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/lunch-box.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/rolling-pin.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/rolling-pin.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/round-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/round-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/serving-tray.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/serving-tray.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/square-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/square-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
   <url><loc>https://www.kaixin-tableware.com/products/screw-thread-round-plate.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 
@@ -77,7 +119,10 @@
 
   <url><loc>https://www.kaixin-tableware.com/blog/reusable-school-cafeteria-trays.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
 
-  <url><loc>https://www.kaixin-tableware.com/products/rice-husk-tumbler.html</loc><changefreq>weekly</changefreq><priority>0.7</priority></url>
+  <url>
+  <loc>https://www.kaixin-tableware.com/products/rice-husk-tumbler.html</loc><changefreq>weekly</changefreq><priority>0.7</priority>
+  <lastmod>2026-10-26</lastmod>
+</url>
 
   <url><loc>https://www.kaixin-tableware.com/solutions.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
 
