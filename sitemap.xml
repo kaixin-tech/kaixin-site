@@ -154,4 +154,24 @@
     <priority>0.7</priority>
   </url>
 
+
+  <url>
+    <loc>https://www.kaixin-tableware.com/restaurants-and-cafes.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.kaixin-tableware.com/hotels-and-hospitality.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.kaixin-tableware.com/schools-and-institutions.html</loc>
+    <lastmod>2026-11-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
 </urlset>
