@@ -63,6 +63,7 @@ cover item pricing lists, logistics rates, or third-party product reviews.
 - [Private-label rice husk tableware: launch guide](https://www.kaixin-tableware.com/blog/private-label-rice-husk-tableware.html): How to launch a branded eco tableware line — SKU selection, molded vs printed logos, Pantone matching, MOQs and a 10-week timeline.
 - [Rice husk cutting board vs bamboo vs wood](https://www.kaixin-tableware.com/blog/rice-husk-cutting-board-vs-bamboo-vs-wood.html): Buyer comparison on knife behavior, moisture, care, freight weight and private-label customization.
 - [Eco tableware in Canada: the importer's guide](https://www.kaixin-tableware.com/blog/eco-tableware-canada-importers-guide.html): Canada's single-use plastics rules in force, what importers must ask for, and the order window for campground and cottage-country season.
+- [New Zealand plastic phase-out: tableware guide](https://www.kaixin-tableware.com/blog/new-zealand-plastic-phase-out-tableware.html): What NZ's single-use plastic bans cover, why compostable disposables are landfilled kerbside, and what cafes, holiday parks and importers should stock.
 - [Reusable school cafeteria trays](https://www.kaixin-tableware.com/blog/reusable-school-cafeteria-trays.html): Spec, material and lifecycle guide for K-12 and campus dining buyers, including US and Canadian procurement timing.
 
 ## Material and sustainability
@@ -85,4 +86,4 @@ cover item pricing lists, logistics rates, or third-party product reviews.
 ## Optional
 
 - [Sitemap](https://www.kaixin-tableware.com/sitemap.xml): Complete list of every indexed URL on this site.
-Last reviewed: 2026-11-03
+Last reviewed: 2026-11-09
